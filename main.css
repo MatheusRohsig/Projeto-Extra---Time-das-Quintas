@@ -1,0 +1,137 @@
+header {
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+    margin-left: 10px;
+}
+
+header{ 
+    background-color: green;
+    padding: 32px;
+}
+
+header h1 {
+    font-size: 70px;
+}
+
+header li a {
+    color: #fff;
+    padding: 16px;
+}
+
+header li a {
+    text-decoration: none;
+}
+
+header li a:hover {
+    text-decoration: underline;
+}
+
+
+section {
+    padding: 30px;
+}
+
+section h1 {
+    margin-bottom: 10px;
+    color: green;
+    font-size: 50px;
+}
+
+section h4 {
+    color: green;
+    font-size: 35px;
+}
+
+section p {
+    margin-bottom: 75px;
+}
+
+#games h4 {
+    display: block;
+    text-align: center
+}
+
+.center {
+    text-align: center;
+    display: block
+}
+
+#games {
+    background-color: black;
+    color: white
+}
+
+section img {
+    width: 900px;
+}
+
+#uniform {
+    background-color:#fff
+}
+
+
+.align-image {
+    text-align: center;
+    display: block
+}
+
+#players li a {
+    text-decoration: none;
+}
+
+#players li a:hover {
+    text-decoration: underline;
+}
+
+#players h4 {
+    text-align: center
+}
+
+#players ul li {
+    text-align: center;
+    display: block
+}
+
+#players {
+    background-color: #000;
+    color: #fff
+}
+
+#players ul li a {
+    color:#fff
+}
+
+h4 {
+    padding: 16px;
+}
+
+#players ul {
+    padding: 16px;
+}
+
+#participate form input{
+    display: block;
+    padding: 20px;
+}
+
+#participate {
+    background-color: #000
+}
+
+.center-align {
+    display: block;
+    text-align: center;
+}
+
+
+.imagem-perfil img {
+    width: 400px;
+}
+
+.imagem-perfil h3{
+    align-items: center;
+
+}
