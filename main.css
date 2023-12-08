@@ -118,8 +118,21 @@ h4 {
 }
 
 #participate {
-    background-color: #000
+    background-color: #fff
 }
+
+#participate form input {
+    border: 1px solid #000000;
+    margin-bottom: 20px
+}
+
+
+#participate form button {
+    font-size: 30px;
+    border: 1px solid #000000;
+}
+
+
 
 .center-align {
     display: block;
@@ -131,7 +144,50 @@ h4 {
     width: 400px;
 }
 
-.imagem-perfil h3{
-    align-items: center;
+.imagem-perfil{
+    display: block;
+    
+}
 
+.informaçoes-atletas ul li {
+    display: flex;
+}
+
+#first-goalkeeper {
+    background-color:#000;
+    color: #fff
+}
+
+#first-goalkeeper h3 {
+    color: green
+}
+
+#second-goalkeeper {
+    background-color: #fff;
+    color: #000
+}
+
+#second-goalkeeper h3 {
+    color: green
+}
+
+#third-goalkeeper{ 
+    background-color: #000;
+    color: #fff;
+}
+
+#third-goalkeeper h3 {
+    color: green
+}
+
+#first-goalkeeper h1 {
+    margin-bottom: 60px;
+}
+
+.imagem-perfil h3 {
+    margin-left: 100px;
+}
+
+.informaçoes-atletas {
+    margin-left: 100px;
 }
